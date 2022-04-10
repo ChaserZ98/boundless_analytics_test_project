@@ -1,5 +1,5 @@
 asgiref==3.5.0
-Django==4.0.3
+Django==3.2.12
 mysqlclient==2.1.0
 numpy==1.22.3
 pandas==1.4.2
