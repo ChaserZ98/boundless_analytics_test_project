@@ -26,7 +26,7 @@ def querySubmit(request) -> JsonResponse:
             }
         )
 
-    zeroQuery = "select * from moody2022_new"
+    zeroQuery = "select * from Moody2022_new"
     sliceQuery = str(request.POST.get('query'))
 
     try:
